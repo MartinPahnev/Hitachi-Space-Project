@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{722C0BFB-D9AD-4B80-95CB-664759774099}|Default">
+  <MonoDevelop.Ide.ItemProperties.M.PAHNEV__SpaceP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/martinpahnev/Projects/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP/Controls.cs" relfile="M.PAHNEV_SpaceP/Controls.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="M.PAHNEV_SpaceP/Controls.cs">
+    <Files>
+      <File FileName="M.PAHNEV_SpaceP/Program.cs" Line="34" Column="29" />
+      <File FileName="M.PAHNEV_SpaceP/CSVParser.cs" Line="43" Column="1" />
+      <File FileName="M.PAHNEV_SpaceP/LocationOfPossibleLaunch.cs" Line="38" Column="76" />
+      <File FileName="M.PAHNEV_SpaceP/Day.cs" Line="22" Column="22" />
+      <File FileName="M.PAHNEV_SpaceP/SpaceProject.cs" Line="35" Column="1" />
+      <File FileName="M.PAHNEV_SpaceP/WeightedDay.cs" Line="6" Column="49" />
+      <File FileName="M.PAHNEV_SpaceP/Controls.cs" Line="34" Column="26" />
+      <File FileName="M.PAHNEV_SpaceP/GermanControls.cs" Line="13" Column="1" />
+      <File FileName="M.PAHNEV_SpaceP/EnglishControls.cs" Line="6" Column="4" />
+      <File FileName="M.PAHNEV_SpaceP/WeatherForecasts/TanegashimaWeatherForecast.csv" Line="7" Column="119" />
+      <File FileName="M.PAHNEV_SpaceP/WeatherForecasts/KourouWeatherForecast.csv" Line="1" Column="1" />
+      <File FileName="M.PAHNEV_SpaceP/WeatherForecasts/CapeCanaveralWeatherForecast.csv" Line="1" Column="1" />
+      <File FileName="M.PAHNEV_SpaceP/WeatherForecasts/KodiakWeatherForecast.csv" Line="1" Column="1" />
+      <File FileName="M.PAHNEV_SpaceP/WeatherForecasts/MahiaWeatherForecast.csv" Line="7" Column="121" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="M.PAHNEV_SpaceP" expanded="True">
+            <Node name="M.PAHNEV_SpaceP" expanded="True">
+              <Node name="WeatherForecasts" expanded="True" />
+              <Node name="Controls.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
