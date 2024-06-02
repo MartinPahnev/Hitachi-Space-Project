@@ -8,11 +8,20 @@ namespace M.PAHNEV_SpaceP
             "2. Send the Report to HQ. \n" +
             "3. Exit the app.";
 		const string EnglishExitMessage = "Thank you for using our System. Goodbye!";
+		const string EnglishPathToFolderMessage = "Please input the path to the folder containing the weather reports.";
+        const string EnglishSenderEmailMessage = "Please input your email.";
+        const string EnglishSenderPasswordMessage = "Please input your email password.";
+        const string EnglishRecipientEmailMessage = "Please input recipient email";
 
-		public EnglishControls()
+
+        public EnglishControls()
 		{
 			StartingMessage = EnglishStartingMessage;
 			ExitMessage = EnglishExitMessage;
+			PathToFolderMessage = EnglishPathToFolderMessage;
+			SenderEmailMessage = EnglishSenderEmailMessage;
+			SenderPasswordMessage = EnglishSenderPasswordMessage;
+			RecipientEmailMessage = EnglishRecipientEmailMessage;
 		}
 	}
 }

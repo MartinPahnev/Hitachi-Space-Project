@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/martinpahnev/Projects/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP.csproj": {}
+    "/Users/martinpahnev/Desktop/TestHibachi/Hitachi-Space-Project/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP.csproj": {}
   },
   "projects": {
-    "/Users/martinpahnev/Projects/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP.csproj": {
+    "/Users/martinpahnev/Desktop/TestHibachi/Hitachi-Space-Project/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/martinpahnev/Projects/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP.csproj",
+        "projectUniqueName": "/Users/martinpahnev/Desktop/TestHibachi/Hitachi-Space-Project/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP.csproj",
         "projectName": "M.PAHNEV_SpaceP",
-        "projectPath": "/Users/martinpahnev/Projects/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP.csproj",
+        "projectPath": "/Users/martinpahnev/Desktop/TestHibachi/Hitachi-Space-Project/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP.csproj",
         "packagesPath": "/Users/martinpahnev/.nuget/packages/",
-        "outputPath": "/Users/martinpahnev/Projects/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP/obj/",
+        "outputPath": "/Users/martinpahnev/Desktop/TestHibachi/Hitachi-Space-Project/M.PAHNEV_SpaceP/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/martinpahnev/.nuget/NuGet/NuGet.Config"
