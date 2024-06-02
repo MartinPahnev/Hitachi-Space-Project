@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J7zc5T6DOvyi9rp9kzziVk6wCIqHkLf+ABiEcDxZTTSIVz8kp4ZSmEf2rIqnWC78fOmISEfx8tW6ICoz6NKDMQ==",
+  "dgSpecHash": "HmjtiXiR2kZP+5pZZ51zu/pnOIMQqnS09T76KAFyE8dIMNvcLn3SMS207NiqAOBgM9uzOazNyEpf4g8l03RGsg==",
   "success": true,
-  "projectFilePath": "/Users/martinpahnev/Projects/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP.csproj",
+  "projectFilePath": "/Users/martinpahnev/Desktop/TestHibachi/Hitachi-Space-Project/M.PAHNEV_SpaceP/M.PAHNEV_SpaceP.csproj",
   "expectedPackageFiles": [
     "/Users/martinpahnev/.nuget/packages/csvhelper/32.0.3/csvhelper.32.0.3.nupkg.sha512"
   ],
